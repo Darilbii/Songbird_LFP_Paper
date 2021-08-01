@@ -10,4 +10,4 @@ REPORTS_DIR = PROJECT_DIR / 'reports'
 FIGURES_DIR = REPORTS_DIR / 'figures'
 
 
-BASE_PATH = Path('Songbird-LFP-Paper/reports')
+BASE_PATH = Path('Songbird_LFP_Paper/reports')
